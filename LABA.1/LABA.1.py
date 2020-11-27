@@ -3,6 +3,7 @@ print('Hello world')
 num = int(input('Introduzca un numero: '))
 ifnum % 2 == 0:
 print('Par')
+print('esta es prueba')
 else:
 print('Impar')
 
